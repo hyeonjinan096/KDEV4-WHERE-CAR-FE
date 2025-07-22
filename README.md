@@ -16,7 +16,7 @@
 
 
 
-🔗 [**서비스 바로가기**](https://www.where-car.com/)  (AWS 지원 만료로 인한 서비스 중단)
+🔗 [**서비스 바로가기**](https://www.where-car.com/)  (AWS 지원 만료로 인한 서비스 중단)<br/>
 🎬 [**최종 발표 자료**](http://where-car.my.canva.site/) 
 
 ---
